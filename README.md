@@ -1,14 +1,18 @@
 BigReactors
 ===========
 
-What is this?
+Updated?
 -------------
 
-An upcoming mod for Minecraft, based on adding new and fun ways to generate power through big multi-block structures. Don't just plop blocks, design the machines yourself!
+This is the fixed and hardcored version of BigReactors mod for 
+Minecraft 1.7.10
+Forge 1.7.10 10.13.4.1614
 
-For near-future plans and development status, see the Roadmap file.
+Because u cant just download and work on default BigReactors projects so this one is for making that process easier.
+Also i added some hardcore crafts and blocks in this mode, just because i like that way more.
 
-Big Reactors has an official website at [www.big-reactors.com](http://www.big-reactors.com)
+I will update and publish this for newer version of Minecraft soon.
+
 
 Alpha
 --------
